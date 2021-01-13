@@ -1,0 +1,6 @@
+config.txt 
+# mengecualikan file
+data/
+# mengecualikan folder
+*.exe
+# mengecualikan jenis file
